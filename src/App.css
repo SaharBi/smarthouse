@@ -1,0 +1,39 @@
+#box {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    text-align: center;
+    background-color: white;
+    border-color: darkblue;
+    border-style: solid;
+    padding: 20px;
+
+}
+
+.btn{
+    padding: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin: 20px;
+    background-color: cornflowerblue;
+    color: white;
+    border-radius: 50px;
+    border-color: darkblue;
+    font-size: large;
+}
+
+#btn2{
+    background-color: cornflowerblue;
+    color: white;
+    border-radius: 5px;
+    border-color: darkblue;
+    font-size: large;
+}
+
+#rooms{
+    border-style: solid;
+    border-color: black;
+    color: black;
+    padding: 20px;
+    margin: 10px;
+    font-size: large;
+}
